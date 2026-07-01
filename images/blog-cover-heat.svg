@@ -1,0 +1,18 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="1" stop-color="#123B67"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="48" fill="url(#bg)"/>
+  <circle cx="980" cy="170" r="160" fill="#FF6B6B" fill-opacity="0.12"/>
+  <circle cx="220" cy="640" r="180" fill="#FFB703" fill-opacity="0.10"/>
+  <rect x="410" y="120" width="380" height="560" rx="48" fill="#E8EEF6"/>
+  <rect x="438" y="156" width="324" height="484" rx="30" fill="#0F172A"/>
+  <rect x="550" y="132" width="100" height="16" rx="8" fill="#0F172A" fill-opacity="0.18"/>
+  <path d="M600 230C550 300 538 356 538 410C538 474 565 522 600 548C635 522 662 474 662 410C662 356 650 300 600 230Z" fill="#FF6B6B"/>
+  <path d="M600 270C569 318 562 353 562 388C562 429 578 460 600 480C622 460 638 429 638 388C638 353 631 318 600 270Z" fill="#FFB703"/>
+  <path d="M600 308C582 335 578 355 578 376C578 400 587 418 600 430C613 418 622 400 622 376C622 355 618 335 600 308Z" fill="#FFFFFF" fill-opacity="0.35"/>
+  <text x="600" y="708" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="4">HEAT</text>
+</svg>

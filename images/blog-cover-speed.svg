@@ -1,0 +1,19 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="1" stop-color="#123B67"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="48" fill="url(#bg)"/>
+  <circle cx="970" cy="620" r="180" fill="#FF6B6B" fill-opacity="0.10"/>
+  <circle cx="200" cy="170" r="150" fill="#12B8A6" fill-opacity="0.12"/>
+  <rect x="420" y="120" width="360" height="560" rx="46" fill="#DDE7F6"/>
+  <rect x="448" y="158" width="304" height="480" rx="28" fill="#0F172A"/>
+  <rect x="560" y="134" width="80" height="16" rx="8" fill="#0F172A" fill-opacity="0.18"/>
+  <path d="M500 500H680" stroke="#12B8A6" stroke-width="20" stroke-linecap="round"/>
+  <path d="M532 448H712" stroke="#5B8DEF" stroke-width="14" stroke-linecap="round" opacity="0.7"/>
+  <path d="M556 396H736" stroke="#FFB703" stroke-width="10" stroke-linecap="round" opacity="0.6"/>
+  <path d="M714 340L794 340L728 404L794 404L706 500" stroke="#FF6B6B" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="600" y="708" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="4">SPEED</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="800" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="1" stop-color="#123B67"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="48" fill="url(#bg)"/>
+  <circle cx="980" cy="170" r="170" fill="#FFB703" fill-opacity="0.12"/>
+  <circle cx="220" cy="620" r="180" fill="#12B8A6" fill-opacity="0.10"/>
+  <rect x="418" y="120" width="364" height="560" rx="48" fill="#FFFFFF"/>
+  <rect x="446" y="158" width="308" height="480" rx="30" fill="#0F172A"/>
+  <rect x="560" y="134" width="80" height="16" rx="8" fill="#0F172A" fill-opacity="0.18"/>
+  <path d="M520 256H680C706 256 726 276 726 302V494C726 520 706 540 680 540H520C494 540 474 520 474 494V302C474 276 494 256 520 256Z" fill="#12B8A6" fill-opacity="0.16"/>
+  <path d="M500 470L566 404L610 448L706 350" stroke="#FFB703" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="598" cy="404" r="18" fill="#5B8DEF"/>
+  <circle cx="656" cy="350" r="18" fill="#FF6B6B"/>
+  <rect x="470" y="574" width="260" height="52" rx="18" fill="#07111F" fill-opacity="0.06"/>
+  <text x="600" y="708" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="4">QUALITY</text>
+</svg>
