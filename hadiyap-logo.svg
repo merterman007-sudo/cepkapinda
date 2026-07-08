@@ -1,4 +1,4 @@
-<svg width="1400" height="380" viewBox="0 0 1400 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Cep Kapında Telefon Tamiri">
+<svg width="1120" height="280" viewBox="0 0 1120 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Cep Kapında Telefon Tamiri">
   <defs>
     <linearGradient id="logoAura" x1="40" y1="20" x2="260" y2="250" gradientUnits="userSpaceOnUse">
       <stop stop-color="#1EE3D1"/>
@@ -30,13 +30,13 @@
   <g transform="translate(325 74)">
     <text x="0" y="110" font-family="Arial, Helvetica, sans-serif" font-size="118" font-style="italic" font-weight="800" letter-spacing="-6">
       <tspan fill="#1EE3D1">Cep</tspan>
-      <tspan fill="#EAF2FF">Kapında</tspan>
+      <tspan fill="#0F2847">Kapında</tspan>
     </text>
 
     <rect x="4" y="132" width="150" height="7" rx="3.5" fill="#1EE3D1"/>
     <rect x="170" y="132" width="98" height="7" rx="3.5" fill="#5B8DEF"/>
 
-    <text x="4" y="192" font-family="Arial, Helvetica, sans-serif" font-size="42" font-style="italic" font-weight="700" fill="#8FB7FF" letter-spacing="-1">
+    <text x="4" y="192" font-family="Arial, Helvetica, sans-serif" font-size="42" font-style="italic" font-weight="700" fill="#5B8DEF" letter-spacing="-1">
       Telefon Tamiri
     </text>
   </g>
