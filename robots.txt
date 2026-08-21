@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://cepkapinda.com
+Sitemap: https://cepkapinda.com/sitemap.xml
