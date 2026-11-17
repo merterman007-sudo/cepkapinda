@@ -1,0 +1,1 @@
+document.addEventListener('click',function(e){var a=e.target.closest('a[data-contact]');if(!a)return;window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:a.dataset.contact+'_click',contact_method:a.dataset.contact,placement:a.dataset.placement,page_path:location.pathname,page_title:document.title});});
